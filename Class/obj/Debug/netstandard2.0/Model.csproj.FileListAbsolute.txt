@@ -1,0 +1,9 @@
+C:\Users\daoud\Documents\IPSAS\3Ginfo\.Net core\TP4\blazor\Class\obj\Debug\netstandard2.0\Model.csprojAssemblyReference.cache
+C:\Users\daoud\Documents\IPSAS\3Ginfo\.Net core\TP4\blazor\Class\obj\Debug\netstandard2.0\Model.AssemblyInfoInputs.cache
+C:\Users\daoud\Documents\IPSAS\3Ginfo\.Net core\TP4\blazor\Class\obj\Debug\netstandard2.0\Model.AssemblyInfo.cs
+C:\Users\daoud\Documents\IPSAS\3Ginfo\.Net core\TP4\blazor\Class\obj\Debug\netstandard2.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\daoud\Documents\IPSAS\3Ginfo\.Net core\TP4\blazor\Class\bin\Debug\netstandard2.0\Model.deps.json
+C:\Users\daoud\Documents\IPSAS\3Ginfo\.Net core\TP4\blazor\Class\bin\Debug\netstandard2.0\Model.dll
+C:\Users\daoud\Documents\IPSAS\3Ginfo\.Net core\TP4\blazor\Class\bin\Debug\netstandard2.0\Model.pdb
+C:\Users\daoud\Documents\IPSAS\3Ginfo\.Net core\TP4\blazor\Class\obj\Debug\netstandard2.0\Model.dll
+C:\Users\daoud\Documents\IPSAS\3Ginfo\.Net core\TP4\blazor\Class\obj\Debug\netstandard2.0\Model.pdb

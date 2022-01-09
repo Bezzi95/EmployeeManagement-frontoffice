@@ -1,0 +1,4 @@
+C:\Users\daoud\Documents\IPSAS\3Ginfo\.Net core\TP4\Blazor\Class\obj\Debug\netstandard2.0\Class.csprojAssemblyReference.cache
+C:\Users\daoud\Documents\IPSAS\3Ginfo\.Net core\TP4\Blazor\Class\obj\Debug\netstandard2.0\Class.AssemblyInfoInputs.cache
+C:\Users\daoud\Documents\IPSAS\3Ginfo\.Net core\TP4\Blazor\Class\obj\Debug\netstandard2.0\Class.AssemblyInfo.cs
+C:\Users\daoud\Documents\IPSAS\3Ginfo\.Net core\TP4\Blazor\Class\obj\Debug\netstandard2.0\Class.csproj.CoreCompileInputs.cache
